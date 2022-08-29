@@ -1,0 +1,2 @@
+# projectReadBin
+read bin file
