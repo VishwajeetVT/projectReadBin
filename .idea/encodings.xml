@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/packag/ReadBinary.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/packag/firware/bank2.bin" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/packag/firware/bank3.bin" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/packag/firware/bank4.binary" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/packag/firware/bank5.elf" charset="UTF-8" />
+  </component>
+</project>
